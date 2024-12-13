@@ -28,11 +28,6 @@
             {
                 return AllPies.Where(p => p.IsPieOfTheWeek);
             }
-
-            set
-            {
-
-            }
         }
 
         public Pie? GetPieById(int pieId) => AllPies.FirstOrDefault(p => p.PieId == pieId);
