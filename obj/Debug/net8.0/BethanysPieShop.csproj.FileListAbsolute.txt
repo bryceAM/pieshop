@@ -23,3 +23,4 @@ C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\refint\BethanysPieS
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.pdb
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.genruntimeconfig.cache
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\ref\BethanysPieShop.dll
+C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.sourcelink.json
