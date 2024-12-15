@@ -3,23 +3,13 @@
     public class MockPieRepository : IPieRepository
     {
         private readonly ICategoryRepository _categoryRepository = new MockCategoryRepository();
-        public IEnumerable<Pie> AllPies => 
+        public IEnumerable<Pie> AllPies =>
             new List<Pie>
             {
-                new Pie { PieId = 1, Name="Strawberry Pie", Price=15.95M, ShortDescription="Lorem Ipsum", LongDescription="sdlfkjsdl;fjs sdf;lasjdfl; sldk;jfsdlkfjds;l.", Category = _categoryRepository.AllCategories.ToList()[0], ImageUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/fruitpies/strawberrypie.jpg", InStock=true,IsPieOfTheWeek=false, ImageThumbnailUrl="https://"}
-
-                //        public int PieId { get; set; }
-                //public string Name { get; set; } = string.Empty;
-                //public string? ShortDescription { get; set; }
-                //public string? LongDescription { get; set; }
-                //public string? AllergyInformation { get; set; }
-                //public decimal Price { get; set; }
-                //public string? ImageUrl { get; set; }
-                //public string? ImageThumbnailUrl { get; set; }
-                //public bool IsPieOfTheWeek { get; set; }
-                //public bool InStock { get; set; }
-                //public int CategoryId { get; set; }
-                //public Category Category { get; set; } = default!;
+                new Pie { PieId = 1, Name="Strawberry Pie", Price=15.95M, ShortDescription="Lorem Ipsum", LongDescription="sdlfkjsdl;fjs sdf;lasjdfl; sldk;jfsdlkfjds;l.", Category = _categoryRepository.AllCategories.ToList()[0], ImageUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/fruitpies/strawberrypie.jpg", InStock=true,IsPieOfTheWeek=false, ImageThumbnailUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/fruitpies/strawberrypie.jpg"},
+                new Pie { PieId = 2, Name="Cheese Cake", Price=18.95M, ShortDescription="Lorem Ipsum", LongDescription="sdlfkjsdl;fjs sdf;lasjdfl; sldk;jfsdlkfjds;l.", Category = _categoryRepository.AllCategories.ToList()[1], ImageUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/cheesecakes/cheesecakesmall.jpg", InStock=true,IsPieOfTheWeek=false, ImageThumbnailUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/cheesecakes/cheesecakesmall.jpg"},
+                new Pie { PieId = 3, Name="Rhubarb Pie", Price=15.95M, ShortDescription="Lorem Ipsum", LongDescription="sdlfkjsdl;fjs sdf;lasjdfl; sldk;jfsdlkfjds;l.", Category = _categoryRepository.AllCategories.ToList()[1], ImageUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/fruitpies/rhubarbpiesmall.jpg", InStock=true,IsPieOfTheWeek=false, ImageThumbnailUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/fruitpies/rhubarbpiesmall.jpg"},
+                new Pie { PieId = 4, Name="Pumpkin Pie", Price=12.95M, ShortDescription="Lorem Ipsum", LongDescription="sdlfkjsdl;fjs sdf;lasjdfl; sldk;jfsdlkfjds;l.", Category = _categoryRepository.AllCategories.ToList()[1], ImageUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/seasonal/pumpkinpiesmall.jpg", InStock=true,IsPieOfTheWeek=false, ImageThumbnailUrl="https://gillcleerenpluralsight.blob.core.windows.net/files/bethanyspieshop/seasonal/pumpkinpiesmall.jpg"}
             };
 
         public IEnumerable<Pie> PiesOfTheWeek

@@ -26,3 +26,5 @@ C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\ref\BethanysPieShop
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.sourcelink.json
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.RazorAssemblyInfo.cache
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.RazorAssemblyInfo.cs
+C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\libman.json
+C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\BethanysPieShop.staticwebassets.runtime.json
