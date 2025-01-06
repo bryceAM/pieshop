@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1625E56A-2E22-4723-BE5E-1B33FA5F1F19}|BethanysPieShop.csproj|c:\\users\\bryce\\source\\repos\\bethanyspieshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -170,24 +174,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckoutComplete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Order\\CheckoutComplete.cshtml",
-              "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
-              "RelativeToolTip": "Views\\Order\\CheckoutComplete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T03:17:44.562Z",
+              "DocumentIndex": 2,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T04:36:28.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -200,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -208,12 +212,11 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwDEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T04:23:40.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T04:23:40.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
@@ -225,20 +228,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T04:35:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\CheckoutComplete.cshtml",
+              "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "Views\\Order\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T03:17:44.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Order\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Checkout.cshtml",
               "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Order\\Checkout.cshtml",
               "RelativeToolTip": "Views\\Order\\Checkout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-03T04:18:35.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
@@ -250,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250103040840_OrderAdded.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Migrations\\20250103040840_OrderAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20250103040840_OrderAdded.cs",
@@ -262,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\ShoppingCart\\Index.cshtml",
@@ -274,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Models\\IOrderRepository.cs",
@@ -286,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Models\\OrderRepository.cs",
@@ -298,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BethanysPieShopDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\BethanysPieShopDbContext.cs",
               "RelativeDocumentMoniker": "Models\\BethanysPieShopDbContext.cs",
@@ -310,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -322,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
@@ -334,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EmailTagHelper.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
               "RelativeDocumentMoniker": "TagHelpers\\EmailTagHelper.cs",
@@ -346,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
@@ -358,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -370,19 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T04:35:12.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\IShoppingCart.cs",
               "RelativeDocumentMoniker": "Models\\IShoppingCart.cs",
@@ -394,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CategoryMenu.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Components\\CategoryMenu.cs",
               "RelativeDocumentMoniker": "Components\\CategoryMenu.cs",
@@ -406,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
@@ -418,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "PieController.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Controllers\\PieController.cs",
               "RelativeDocumentMoniker": "Controllers\\PieController.cs",
@@ -430,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -442,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ShoppingCartSummary.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Components\\ShoppingCartSummary.cs",
               "RelativeDocumentMoniker": "Components\\ShoppingCartSummary.cs",
@@ -454,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
@@ -466,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
@@ -478,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_PieCard.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\_PieCard.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_PieCard.cshtml",
@@ -490,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Pie\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Pie\\Details.cshtml",
@@ -502,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ShoppingCartViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\ShoppingCartViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ShoppingCartViewModel.cs",
@@ -514,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "20241222043919_AddShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Migrations\\20241222043919_AddShoppingCartItem.cs",
               "RelativeDocumentMoniker": "Migrations\\20241222043919_AddShoppingCartItem.cs",
@@ -526,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -538,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "_Carousel.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Shared\\_Carousel.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Carousel.cshtml",
@@ -550,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "Models\\ShoppingCartItem.cs",
@@ -562,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Views\\Pie\\List.cshtml",
               "RelativeDocumentMoniker": "Views\\Pie\\List.cshtml",
@@ -574,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
@@ -586,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Models\\DbInitializer.cs",
@@ -598,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -610,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Models\\CategoryRepository.cs",
@@ -622,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "20241215220752_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Migrations\\20241215220752_InitialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20241215220752_InitialMigration.cs",
@@ -634,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "BethanysPieShop.csproj",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\BethanysPieShop.csproj",
               "RelativeDocumentMoniker": "BethanysPieShop.csproj",
@@ -646,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "PieRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\Models\\PieRepository.cs",
               "RelativeDocumentMoniker": "Models\\PieRepository.cs",
