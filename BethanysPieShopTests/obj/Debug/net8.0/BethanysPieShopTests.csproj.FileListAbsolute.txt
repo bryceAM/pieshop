@@ -147,3 +147,4 @@ C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\refint\Bethany
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.pdb
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.genruntimeconfig.cache
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\ref\BethanysPieShopTests.dll
+C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.sourcelink.json
