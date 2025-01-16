@@ -18,6 +18,8 @@ C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\BethanysPieSho
 C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
@@ -141,10 +143,10 @@ C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieSho
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.AssemblyInfoInputs.cache
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.AssemblyInfo.cs
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.sourcelink.json
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\Bethanys.74AD4964.Up2Date
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\refint\BethanysPieShopTests.dll
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.pdb
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.genruntimeconfig.cache
 C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\ref\BethanysPieShopTests.dll
-C:\Users\Bryce\source\repos\BethanysPieShopTests\obj\Debug\net8.0\BethanysPieShopTests.sourcelink.json

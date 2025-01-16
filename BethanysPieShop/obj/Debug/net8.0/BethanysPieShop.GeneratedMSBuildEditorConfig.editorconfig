@@ -18,6 +18,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Bryce\source\repos\BethanysPieShop
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFBhZ2VzXEVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/Pages/PieCard.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFBhZ2VzXFBpZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/Pages/SearchBlazor.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFBhZ2VzXFNlYXJjaEJsYXpvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXFJvdXRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXExheW91dFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-8okkdiamzs
+
+[C:/Users/Bryce/source/repos/BethanysPieShop/App/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwXExheW91dFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-twrechd7bq
+
 [C:/Users/Bryce/source/repos/BethanysPieShop/Pages/CheckoutCompletePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRDb21wbGV0ZVBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
