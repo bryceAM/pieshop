@@ -63,15 +63,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BethanysPieShop",
+              "Title": "BethanysPieShop.csproj",
               "DocumentMoniker": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\BethanysPieShop.csproj",
               "RelativeDocumentMoniker": "BethanysPieShop\\BethanysPieShop.csproj",
               "ToolTip": "C:\\Users\\Bryce\\source\\repos\\BethanysPieShop\\BethanysPieShop.csproj",
               "RelativeToolTip": "BethanysPieShop\\BethanysPieShop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T04:01:56.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T04:01:56.989Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T04:18:04.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T04:18:04.282Z"
             },
             {
               "$type": "Document",
