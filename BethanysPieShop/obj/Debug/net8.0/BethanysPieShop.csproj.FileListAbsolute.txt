@@ -10,6 +10,8 @@ C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\BethanysPieShop.pdb
 C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Bryce\source\repos\BethanysPieShop\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -116,6 +118,7 @@ C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.Gen
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.AssemblyInfoInputs.cache
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.AssemblyInfo.cs
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.RazorAssemblyInfo.cache
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.RazorAssemblyInfo.cs
@@ -127,7 +130,10 @@ C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\staticwebassets\msb
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BethanysPieShop.props
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BethanysPieShop.props
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\scopedcss\App\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\scopedcss\App\Layout\NavMenu.razor.rz.scp.css
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\scopedcss\bundle\BethanysPieShop.styles.css
+C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\scopedcss\projectbundle\BethanysPieShop.bundle.scp.css
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\Bethanys.B33CEB33.Up2Date
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.dll
 C:\Users\Bryce\source\repos\BethanysPieShop\obj\Debug\net8.0\refint\BethanysPieShop.dll
